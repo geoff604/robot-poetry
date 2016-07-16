@@ -1,12 +1,9 @@
-Robot Poetry 0.0.1
+Robot Poetry
 by Geoff Peters
 
-Nov. 3, 2008
+Originally relesed: Nov. 3, 2008
 
-A hosted version of this app is available to use at:
-http://www.gpeters.com/auto/autotype.php
-
-and more info is at:
+More info is at:
 http://www.robotpoetry.com
 
 Note: 
