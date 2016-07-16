@@ -1,0 +1,22 @@
+body, td, p {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : small;
+}
+
+.hidDiv {
+position: absolute; 
+left: 10px; 
+top: 10px;
+text-align:center;
+width: 50px; 
+visibility : hidden;
+background-color:#E6F5FC; 
+}
+
+ .mybold {
+  font-weight : bold;
+  }
+   
+  .mynormal {
+  font-weight : normal;
+  }
